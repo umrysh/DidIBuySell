@@ -6,9 +6,9 @@ This is a simple crontab website scraper. My current online stock broker does no
 I have this script running as a cron job every 15 minutes, Monday-Friday, from 6am to 6pm Eastern Time. Whenever it notices that my brokers account name bought or sold any of my specified stocks, it send me an email. Pretty simple.
 
 To use it you only need to change:
-*Which stocks it is watching.
-*The name StockWatch.com uses for your broker (after one of your orders goes through refresh the stockwatch.com page for that specific stock to determine your brokers name)
-*The email address you want the notification to be sent to.
+* Which stocks it is watching.
+* The name StockWatch.com uses for your broker (after one of your orders goes through refresh the stockwatch.com page for that specific stock to determine your brokers name)
+* The email address you want the notification to be sent to.
 
 Enjoy
 
